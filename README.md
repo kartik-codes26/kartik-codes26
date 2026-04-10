@@ -1,16 +1,24 @@
-## Hi there 👋
+ Hi, I'm Kartik 👋
 
-<!--
-**kartik-codes26/kartik-codes26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend / MERN Developer  
+💻 Passionate about building real-world web apps  
+📍 India  
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- MongoDB, MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📌 Projects
+- 🔹 VIPS_MERN_STACK – Full stack app using MERN
+- 🔹 AI Powered Extension – Chrome extension using AI APIs
+- 🔹 Shopy – E-commerce frontend
+
+📈 Currently Learning
+- Advanced React
+- System Design Basics
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/kartik-062368371/
+- GitHub: https://github.com/kartik-codes26
