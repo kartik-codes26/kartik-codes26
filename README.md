@@ -1,18 +1,23 @@
- Hi, I'm Kartik 👋
+# Hi, I'm Kartik 👋
 
 🚀 Frontend / MERN Developer | AI Enthusiast  
 💻 I build real-world web + AI applications  
 📍 India  
 
-🔧 Tech Stack
+---
+
+## 🔧 Tech Stack
 - HTML, CSS, JavaScript
 - React.js, Node.js, Express.js
 - MongoDB, MySQL
 - TensorFlow, AI/ML Basics
 - Git & GitHub
 
-🚀 Featured Projects
-🧴 AcneAI – Acne Type Classification (Major Project)
+---
+
+## 🚀 Featured Projects
+
+### 🧴 AcneAI – Acne Type Classification (Major Project)
 A deep learning-based system that classifies **5 types of acne** using EfficientNetB0.
 
 🔹 Features:
@@ -25,20 +30,24 @@ A deep learning-based system that classifies **5 types of acne** using Efficient
 🔹 Tech:
 TensorFlow, Python, Streamlit, Deep Learning  
 
- 🛒 Shopy – E-Commerce Frontend
-A modern e-commerce UI built with React.
+---
+
+### 🕶️ The Other – Luxury Eyewear E-Commerce
+A modern luxury eyewear e-commerce website built with React, Vite, and Tailwind CSS.
 
 🔹 Features:
-- Product listing  
-- Responsive design  
-- Clean UI/UX  
-- Cart functionality  
+- 70+ products (Sunglasses + Optical)  
+- Advanced filtering (color, price)  
+- Sorting (featured, newest, price)  
+- Shopping cart with state management  
+- Responsive design with smooth animations  
 
 🔹 Tech:
-React.js, CSS, JavaScript  
+React.js, Vite, Tailwind CSS, Context API  
 
+---
 
- 🤖 AI Powered Extension
+### 🤖 AI Powered Extension
 A browser extension that uses AI to provide smart suggestions.
 
 🔹 Features:
@@ -49,11 +58,14 @@ A browser extension that uses AI to provide smart suggestions.
 🔹 Tech:
 React.js, JavaScript, AI API  
 
-📈 Currently Learning
+---
+
+## 📈 Currently Learning
 - Advanced React
 - System Design Basics
 
-]
- 📫 Connect with me
+---
+
+## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/kartik-062368371/
 - GitHub: https://github.com/kartik-codes26
